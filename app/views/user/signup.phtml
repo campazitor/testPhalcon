@@ -1,0 +1,28 @@
+<?php use Phalcon\Tag; ?>
+
+<h2>Sign using this form</h2>
+
+<p><?php echo $this->flashSession->output() ?></p>
+
+<?= Tag::form("user/register"); ?>
+
+<p>
+    <label for="name">Name</label>
+    <?= Tag::textField("name") ?>
+</p>
+
+<p>
+    <label for="name">E-Mail</label>
+    <?= Tag::textField("email") ?>
+</p>
+
+<p>
+    <label for="name">Password</label>
+    <?= Tag::textField("password") ?>
+</p>
+
+<p>
+    <?= Tag::submitButton("Register") ?>
+</p>
+
+</form>

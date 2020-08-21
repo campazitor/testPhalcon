@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27047e56-d7d5-4c6f-8776-e99a8855baef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="testPhalcon.loc" id="cf2ebc8e-b8db-416f-853e-c60a0e568a5f" name="testPhalcon.loc" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="testPhalcon.loc" />
+  <component name="ProjectId" id="1gKQ3o3SEFbFujNn3sk5PQD0iSl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/controllers" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/controllers" />
+      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$/app/views/index" />
+      <recent name="$PROJECT_DIR$/app/views/signup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/layouts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="testPhalcon.loc" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="testPhalcon.loc">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27047e56-d7d5-4c6f-8776-e99a8855baef" name="Default Changelist" comment="" />
+      <created>1597860607898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597860607898</updated>
+      <workItem from="1597860608997" duration="3685000" />
+      <workItem from="1597900128419" duration="86000" />
+      <workItem from="1597900233804" duration="35000" />
+      <workItem from="1598006029594" duration="3872000" />
+      <workItem from="1598010888464" duration="2692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="120" width="824" height="684" key="#CLI_Interpreters" timestamp="1597899771811">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="331" y="120" width="824" height="684" key="#CLI_Interpreters/67.27.1373.873@67.27.1373.873" timestamp="1597899771811" />
+    <state x="398" y="86" width="700" height="752" key="#PHP" timestamp="1597899772344">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="398" y="86" width="700" height="752" key="#PHP/67.27.1373.873@67.27.1373.873" timestamp="1597899772344" />
+    <state x="348" y="106" width="800" height="712" key="#Plugins" timestamp="1597900211113">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="106" width="800" height="712" key="#Plugins/67.27.1373.873@67.27.1373.873" timestamp="1597900211113" />
+    <state x="348" y="124" width="800" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598013026618">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="124" width="800" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1373.873@67.27.1373.873" timestamp="1598013026618" />
+    <state x="530" y="205" width="424" height="513" key="FileChooserDialogImpl" timestamp="1598010270146">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="530" y="205" width="424" height="513" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1598010270146" />
+    <state x="585" y="347" width="325" height="229" key="FrameworkEditDialogDimensionKey" timestamp="1597862838148">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="585" y="347" width="325" height="229" key="FrameworkEditDialogDimensionKey/67.27.1373.873@67.27.1373.873" timestamp="1597862838148" />
+    <state width="908" height="219" key="GridCell.Tab.0.bottom" timestamp="1597861898694">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="908" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1597861898694" />
+    <state width="908" height="219" key="GridCell.Tab.0.center" timestamp="1597861898694">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="908" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1597861898694" />
+    <state width="908" height="219" key="GridCell.Tab.0.left" timestamp="1597861898693">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="908" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1597861898693" />
+    <state width="908" height="219" key="GridCell.Tab.0.right" timestamp="1597861898694">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="908" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1597861898694" />
+    <state x="242" y="97" key="SettingsEditor" timestamp="1598013015105">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="242" y="97" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1598013015105" />
+    <state x="452" y="340" width="591" height="243" key="WPCliPathDialog" timestamp="1597862606394">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="452" y="340" width="591" height="243" key="WPCliPathDialog/67.27.1373.873@67.27.1373.873" timestamp="1597862606394" />
+    <state x="621" y="376" key="com.jetbrains.php.framework.generators.custom.CustomFrameworkDialog" timestamp="1598010314016">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="621" y="376" key="com.jetbrains.php.framework.generators.custom.CustomFrameworkDialog/67.27.1373.873@67.27.1373.873" timestamp="1598010314016" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/controllers/SignupController.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

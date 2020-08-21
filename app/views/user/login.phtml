@@ -1,0 +1,23 @@
+<?php use Phalcon\Tag; ?>
+
+<h2>Login using this form</h2>
+
+<p><?php echo $this->flashSession->output() ?></p>
+
+<?= Tag::form("user/auth"); ?>
+
+<p>
+    <label for="name">E-Mail</label>
+    <?= Tag::textField("email") ?>
+</p>
+
+<p>
+    <label for="name">Password</label>
+    <?= Tag::textField("password") ?>
+</p>
+
+<p>
+    <?= Tag::submitButton("Login") ?>
+</p>
+
+</form>
